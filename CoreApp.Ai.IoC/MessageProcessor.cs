@@ -1,4 +1,7 @@
-﻿namespace CoreApp.Ai.IoC
+﻿using CoreApp.Ai.IoC.Handlers;
+using CoreApp.Ai.IoC.Models;
+
+namespace CoreApp.Ai.IoC
 {
     public class MessageProcessor
     {

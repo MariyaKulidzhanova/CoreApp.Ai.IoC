@@ -1,4 +1,4 @@
-﻿namespace CoreApp.Ai.IoC
+﻿namespace CoreApp.Ai.IoC.Models
 {
     public class UObject
     {

@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using CoreApp.Ai.IoC.Handlers;
 
 namespace CoreApp.Ai.IoC
 {
